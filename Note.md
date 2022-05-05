@@ -22,3 +22,11 @@ git push -u origin main
 - npm install --save-dev babel-plugin-module-resolver
 - .babelrc
 - jsconfig.json
+
+# Cấu hình sử dụng CSS/SASS
+
+- create GlobalStyles component
+- SASS: npm i -D sass
+- Reset CSS: npm install --save normalize.css
+- Default CSS: font-family, font-size, line-height
+- get font: Montserrat and paste in GlobalStyles.scss
