@@ -3,7 +3,7 @@
     ["module-resolver", {
       // "root": ["./src"],
       "alias": {
-        "~": "./srs"
+        "~": "./src"
         // import App from '~/App'
       }
     }]

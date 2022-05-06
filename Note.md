@@ -30,3 +30,14 @@ git push -u origin main
 - Reset CSS: npm install --save normalize.css
 - Default CSS: font-family, font-size, line-height
 - get font: Montserrat and paste in GlobalStyles.scss
+
+# Cấu hình Router/Layout cho dự án
+
+[pages]
+
+1. Phân tích tổng quan Layout
+2. Cài đặt react-router-dom: npm i react-router-dom
+3. Đưa cấu hình routes ra ngoài
+4. Xây dựng cơ chế tải Layout
+
+{upLoad page ko co layout }
