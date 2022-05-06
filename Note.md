@@ -41,3 +41,7 @@ git push -u origin main
 4. Xây dựng cơ chế tải Layout
 
 {upLoad page ko co layout }
+
+# Dựng khung Layout mặc định
+
+- Cài thư viện classnames: npm i classnames
