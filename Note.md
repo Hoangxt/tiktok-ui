@@ -45,3 +45,9 @@ git push -u origin main
 # Dựng khung Layout mặc định
 
 - Cài thư viện classnames: npm i classnames
+
+# Xây dựng UI phần Header P1
+
+[Layout/Header]
+
+- Ctrl Shift L select all
